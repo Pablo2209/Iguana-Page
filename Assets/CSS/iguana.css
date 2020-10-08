@@ -1,0 +1,132 @@
+body {
+    text-align: center;
+    color: #ffffff;
+    margin: 0;
+    font-family: 'Raleway', sans-serif;/*Tipo de letra para los
+    parrafos, primero hay que instalar en HTM*/
+}
+
+body * {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+.container-all {
+    margin: auto; /*Todo el contenido de la pagina se central al medio*/
+    width: 1280px; /*Ancho maximo de la pagina*/
+}
+
+
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.iguana1 {
+    height: 727px;
+}
+
+
+.seccion1 {
+    background: #000000;
+    height: 348px;
+}
+
+.texto1{
+    text-align: left;
+    width: 475px;
+    height: 197px;
+    padding-left: 150px;  
+    padding-top: 76px;  
+    float: left;
+}
+
+.imagen-texto{
+    width: 399px;
+    height: 237px;
+    padding-left: 731px;
+    padding-top: 45px;
+}
+
+.oscuro1 {
+    background: #1E1A13;
+    color: #ffffff;
+    height: 348px; 
+}
+
+.subtitulo {
+    text-align: center;
+    font-size: 40px;   
+    padding-top: 75px;
+}
+
+.caracteristica1 {
+    float: left;
+    font-size: 25px;
+    margin-top: 70px;
+    margin-left: 301px;
+}
+
+.icono1{
+    color: #FFFFFF;
+    font-size: 39.17px;
+}
+
+.caracteristica2 {
+    float: left;
+    font-size: 25px;
+    margin-top: 70px;
+    margin-left: 182px;
+}
+.icono2{
+    color: #FFFFFF;
+    font-size: 39.17px;
+}
+
+.caracteristica3 {
+    float: left;
+    font-size: 25px;
+    margin-top: 70px;
+    margin-left: 145.88px;
+}
+
+.icono3{
+    color: #FFFFFF;
+    font-size: 39.17px;
+}
+
+
+.imagenes-iguanas {
+    background: #000f08;
+    color: #ffffff;
+    height: 348px;
+    
+}
+
+.imagenes {
+    padding-top: 75px;
+}
+
+.iguana2{
+    padding-right: 16px;
+}
+
+.iguana4{
+    padding-left: 16px;
+}
+
+.oscuro{
+    background: #1E1A13;
+    color: #ffffff;
+    height: 73px;
+    width: 1280px;
+    text-align: none;
+}
+
+.visita {
+    font-size: 20px;
+    padding: 15px;
+}
+
